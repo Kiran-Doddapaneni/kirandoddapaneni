@@ -1,0 +1,17 @@
+27/04/2025 
+
+we learned about Docker and some basic concepts related to AI agent automation tools like n8n, LangGraph, and Langflow. It was more of an introduction, so we got a general idea of how these tools work.
+
+The main part of the class was about Wazuh in Docker Hub. We saw how Wazuh (which is a SIEM tool) works through its dashboard and how to set it up using Docker and showed the implementation step by step. It helped me understand how Docker makes it easier to run and manage tools like Wazuh without complex installation.
+
+
+
+
+04/05/2025
+
+
+we discussed FastAPI. We wrote and ran code to understand different API methods like GET, POST, PATCH, and DELETE. It was a hands-on session, so it was easier to understand how these methods work in real applications.
+
+At the end of the class, we had a short discussion about GitHub repositories and our main project. We got an idea of how we will use GitHub to manage our code and work on the project.
+
+In addition, I shown how I connected Wazuh to my terminal using WSL2. I showed that if any error or complex issue occurs in the terminal, it appears in the Wazuh dashboard. It also provides logs explaining why the vulnerability or issue happened, which helps in better monitoring and analysis.
