@@ -15,3 +15,9 @@ we discussed FastAPI. We wrote and ran code to understand different API methods 
 At the end of the class, we had a short discussion about GitHub repositories and our main project. We got an idea of how we will use GitHub to manage our code and work on the project.
 
 In addition, I shown how I connected Wazuh to my terminal using WSL2. I showed that if any error or complex issue occurs in the terminal, it appears in the Wazuh dashboard. It also provides logs explaining why the vulnerability or issue happened, which helps in better monitoring and analysis.
+
+
+
+05/05/2025
+
+In today’s class, we worked on defining personas for our SIEM Agent project, like a SOC Analyst, Security Engineer, and Cybersecurity Student. We created scenarios to understand how each user would use the system for tasks like threat detection, automation, and learning. After sharing our ideas with other groups, we got feedback that helped us improve features like usability, automation, and visualization. Finally, we started turning our scenarios into user stories to prepare for development.
