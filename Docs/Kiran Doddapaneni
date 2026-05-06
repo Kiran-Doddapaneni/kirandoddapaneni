@@ -24,5 +24,34 @@ applications using images, containers, Dockerfiles, and Docker Compose. I also l
 which are used to build intelligent automated workflows and AI-based systems.
 
 
+4-05-2026
+
+Today I learned about FastAPI and different API methods such as GET, POST, PATCH, and DELETE by writing and running code in class. This  helped me understand 
+
+how APIs work in real-world applications and how data can be created, updated, retrieved, and deleted. We also discussed GitHub repositories and how we will use
+
+them to manage code and collaborate on our main project. In addition, I demonstrated how I connected Wazuh with WSL2 in my terminal and showed how errors and 
+
+vulnerabilities generated in the terminal are detected and logged in the Wazuh dashboard for monitoring and analysis.
+
+5-05-2026
+
+Today in class, we worked on creating personas for our SIEM Agent project. We identified different types of users such as a SOC Analyst, Security Engineer, and 
+
+Cybersecurity Student, and discussed their roles, technical knowledge, and what they expect from the system. We also created realistic scenarios showing how
+
+each user would use our project for tasks like threat detection, automation, and learning cybersecurity concepts. This activity helped me understand how 
+
+important it is to design the system based on real user needs and practical use cases.Later, we shared our scenarios with other groups and received feedback and
+
+suggestions. Through these discussions, we got new ideas about features that could improve our project, such as better automation, visualization, and usability.
+
+We also identified some missing areas and gained a clearer understanding of what needs to be implemented in our system. At the end of the class, we discussed
+
+user stories and learned how they help convert user requirements into structured development tasks for the project.
+
+
+
+
 
 
