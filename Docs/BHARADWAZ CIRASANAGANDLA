@@ -21,3 +21,9 @@ In addition, I shown how I connected Wazuh to my terminal using WSL2. I showed t
 05/05/2025
 
 In today’s class, we worked on defining personas for our SIEM Agent project, like a SOC Analyst, Security Engineer, and Cybersecurity Student. We created scenarios to understand how each user would use the system for tasks like threat detection, automation, and learning. After sharing our ideas with other groups, we got feedback that helped us improve features like usability, automation, and visualization. Finally, we started turning our scenarios into user stories to prepare for development.
+
+
+12/05/2025
+
+we created a simple AI chatbot workflow using Langflow. The workflow takes user questions through Chat Input and combines them with website or text information using a Prompt Template. Then the LiteLLM model processes the data and generates answers, which are shown in Chat Output. Initially, we tried using URL extraction to collect website data automatically, but some information like address and CEO details was not extracted correctly. To solve this, we used manual Text Input as the information source. This project helped us understand how AI workflows in Langflow.
+
