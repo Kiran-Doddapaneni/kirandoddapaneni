@@ -51,6 +51,7 @@ We also identified some missing areas and gained a clearer understanding of what
 user stories and learned how they help convert user requirements into structured development tasks for the project.
 
 11-05-2026
+
 In today’s session, our team continued working on the SIEM Agent project and focused on completing the checklist items discussed in class. We reviewed and 
 
 updated the vision statement, architecture design using Docker Compose, personas, scenarios, and user stories. We also started working on the project features
