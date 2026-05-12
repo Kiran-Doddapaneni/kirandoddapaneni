@@ -50,6 +50,24 @@ We also identified some missing areas and gained a clearer understanding of what
 
 user stories and learned how they help convert user requirements into structured development tasks for the project.
 
+11-05-2026
+In today’s session, our team continued working on the SIEM Agent project and focused on completing the checklist items discussed in class. We reviewed and 
+
+updated the vision statement, architecture design using Docker Compose, personas, scenarios, and user stories. We also started working on the project features
+
+and discussed how they should be implemented in the system.
+
+I worked on improving the readability and structure of the documentation so that the content is easier to understand and present during reviews. Our team also
+
+discussed the current project progress with the professor and received feedback regarding the project direction, required functionalities, and future sprint
+
+planning.
+
+On the technical side, I personally worked on Wazuh setup and explored its functionalities related to log monitoring, threat detection, and security analysis.
+
+I also spent time troubleshooting Docker and Wazuh integration issues to better understand how the SIEM environment works. This session helped me gain practical
+
+knowledge about integrating Wazuh into our SIEM Agent project for real-time monitoring and alert management.
 
 
 
