@@ -70,6 +70,16 @@ I also spent time troubleshooting Docker and Wazuh integration issues to better 
 
 knowledge about integrating Wazuh into our SIEM Agent project for real-time monitoring and alert management.
 
+12-05-2026
+In this project, we created a simple AI chatbot workflow using Langflow. The workflow takes user questions through Chat Input and combines them with website or
+
+text information using a Prompt Template. Then the LiteLLM model processes the data and generates answers, which are shown in Chat Output. Initially, we tried 
+
+using URL extraction to collect website data automatically, but some information like address and CEO details was not extracted correctly. To solve this, we used
+
+manual Text Input as the information source. This project helped us understand how AI workflows and Retrieval-Augmented Generation (RAG) systems work in Langflow.
+
+
 
 
 
