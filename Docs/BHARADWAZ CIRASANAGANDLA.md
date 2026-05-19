@@ -32,9 +32,11 @@ we created a simple AI chatbot workflow using Langflow. The workflow takes user 
 
 
 
+
+
 18/05/2025
 
-we worked on Langflow workflows using embeddings and ChromaDB. First, we learned about embeddings and how they help in storing and retrieving semantic information from vector databases. After that, we created two workflows for data ingestion and response generation using ChromaDB, parser, prompt templates, and LiteLLM proxy. Both workflows were working properly, and we understood the basic implementation of a RAG pipeline in Langflow.
+we worked on Langflow workflows using embeddings and ChromaDB. First, we learned about embeddings and how they help in storing and retrieving semantic information from vector databases. In the workflow, we also understood how indexing and retrieving data works using ChromaDB for efficient response generation. After that, we created two workflows for data ingestion and response generation using ChromaDB, parser, prompt templates, and LiteLLM proxy. Both workflows were working properly, and we understood the basic implementation of a RAG pipeline in Langflow.
 
 <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/162dfef4-c566-44d4-a00f-010df7578693" />
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/bce3ebd9-6467-4e8c-9ab4-68d388903408" />
