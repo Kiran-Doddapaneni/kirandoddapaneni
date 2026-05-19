@@ -1,0 +1,7 @@
+config/wazuh_indexer_ssl_certs/
+*.key
+*.pem
+.env
+*.log
+data/
+volumes/
