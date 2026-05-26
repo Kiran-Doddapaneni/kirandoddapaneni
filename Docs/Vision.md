@@ -1,8 +1,6 @@
 # Vision Statement
 
-Our project aims to develop an AI-driven SIEM platform that combines real-time security monitoring with intelligent incident investigation and visualization.
-
-The platform uses Wazuh for log collection, threat detection, and security monitoring. In addition, it integrates a custom AI investigation agent that can analyze alerts, group related events into incidents, assign risk levels, and visualize attack relationships through an OpenCTI-inspired dashboard.
+IncidentX is an AI-driven SIEM and incident investigation platform that integrates Wazuh security monitoring with Langflow-powered AI analysis to group alerts, explain threats, assign risk scores, and assist security analysts in incident response.
 
 The system is designed to support:
 - SOC Analysts in faster threat investigation and response  
