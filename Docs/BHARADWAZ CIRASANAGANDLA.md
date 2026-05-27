@@ -40,3 +40,19 @@ we worked on Langflow workflows using embeddings and ChromaDB. First, we learned
 
 <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/162dfef4-c566-44d4-a00f-010df7578693" />
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/bce3ebd9-6467-4e8c-9ab4-68d388903408" />
+
+
+
+
+
+26/05/2025
+
+We worked on langflow and wazuh, successfully integrated Wazuh SIEM with Langflow using Groq LLM as the AI engine. I built a custom Python component inside Langflow that connects directly to the Wazuh API, fetches real-time security alerts and agent data, and explains everything in plain English through the Groq AI model. I also pushed the Wazuh Docker setup files to our group GitHub repository as a new branch so all team members can access them.
+
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/78f9213b-ca46-4778-b35c-f12bf5e20757" />
+
+
+
+
+
+
