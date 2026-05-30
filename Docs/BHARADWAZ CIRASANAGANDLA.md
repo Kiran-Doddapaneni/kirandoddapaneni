@@ -54,5 +54,9 @@ We worked on langflow and wazuh, successfully integrated Wazuh SIEM with Langflo
 
 
 
+27/05/2026
+
+In this class, we learned about Model Context Protocol (MCP) and its role in enhancing interactions between Large Language Models (LLMs) and external tools within Langflow. We explored the basic concepts behind MCP and completed practical exercises to understand how it can be used to extend the capabilities of AI applications and workflows.
+
 
 
