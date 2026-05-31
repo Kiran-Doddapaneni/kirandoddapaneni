@@ -33,4 +33,6 @@ Sir corrected my mistakes and I too made it better from earlier.
 12.5.26
 Today we got to know about langflow ,we uplifted it and and made a llm prompt for mdh which will help us tell the address of the university and other answers 
 related to the university.I learned how the architecture works of llm and also in the beginning I got to know about the basic syntax to follow and the various parts.
-The output is as follows 
+
+27.05.2026
+Yesterday in class, we successfully integrated Wazuh SIEM with Langflow using Groq LLM as the AI engine. I built a custom Python component inside Langflow that connects directly to the Wazuh API, fetches real-time security alerts and agent data, and explains everything in plain English through the Groq AI model. I also pushed the Wazuh Docker setup files to our group GitHub repository as a new branch so all team members can access them.<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/3604c386-75d2-4e82-92a3-004e40b819da" />
