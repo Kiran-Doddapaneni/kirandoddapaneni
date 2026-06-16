@@ -103,7 +103,9 @@ services:
       - caddy
     labels:
       caddy: wazuhcti.duckdns.org
-      caddy.reverse_proxy: "{{upstreams 5601}}"
+      caddy.reverse_proxy: "https://{{upstreams 5601}}"
+      caddy.reverse_proxy.transport: "http"
+      caddy.reverse_proxy.transport.tls_insecure_skip_verify: ""
 
 
 
