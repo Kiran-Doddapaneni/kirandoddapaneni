@@ -96,7 +96,8 @@ services:
       - wazuh.indexer:wazuh.indexer
       - wazuh.manager:wazuh.manager
     networks:
-      - caddy
+      - caddy:
+          external: true
     labels:
       caddy: wazuhcti.duckdns.org
       caddy.reverse_proxy: "{{upstreams 5601}}"
