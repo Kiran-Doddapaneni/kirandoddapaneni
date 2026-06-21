@@ -1,4 +1,9 @@
-SIEM AGENT
+INCIDENTX
+AI-Powered Security Monitoring & Incident Response Platform
+
+
+
+
 # kiran doddapaneni
 # Bharadwaz Cirasanagandla
 # Tejas Sonawane
@@ -6,3 +11,12 @@ SIEM AGENT
 
 
 
+Tech Stack
+
+- Wazuh
+- Langflow
+- Docker
+- Portainer
+- Caddy
+- Webhook
+- Contabo VPS
