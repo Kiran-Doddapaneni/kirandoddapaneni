@@ -6,11 +6,12 @@
 📅 **Duration:** May 11 → May 17
 
 ## Tasks
-1. Finalize project scope  
-2. Complete project documentation  
-3. Set up Docker environment  
-4. Deploy Wazuh stack  
-5. Create system architecture design  
+1.Project Planning
+2.Vision
+3.Personas
+4.Architecture Design
+COMPLETED
+
 
 ## Deliverables
 - Vision statement  
@@ -24,10 +25,11 @@
 📅 **Duration:** May 18 → May 24
 
 ## Tasks
-1. Build alert reader  
-2. Parse `alerts.json` data  
-3. Normalize security events  
-4. Store incidents in MongoDB  
+1.Docker Environment
+2.Wazuh Deployment
+3.Local Testing
+COMPLETED
+
 
 ## Deliverables
 - Alert ingestion pipeline  
@@ -39,9 +41,11 @@
 📅 **Duration:** May 25 → May 31
 
 ## Tasks
-1. Build incident grouping logic  
-2. Implement risk scoring  
-3. Add LangGraph reasoning workflow  
+1.Contabo VPS Setup
+2.SSH
+3.Firewall
+4.Docker Installation
+COMPLETED
 
 ## Deliverables
 - Working AI investigation engine  
@@ -52,10 +56,11 @@
 📅 **Duration:** June 1 → June 7
 
 ## Tasks
-1. Build dashboard UI  
-2. Display incidents and alerts  
-3. Add relationship visualization  
-4. Add severity-based filtering  
+1.Caddy
+2.Portainer
+3.Webhook
+4.Reverse Proxy
+COMPLETED
 
 ## Deliverables
 - Functional investigation dashboard  
@@ -66,14 +71,19 @@
 📅 **Duration:** June 8 → June 15
 
 ## Tasks
-1. Simulate cyber attacks  
-2. Test complete workflows  
-3. Improve UI and usability  
-4. Prepare presentation and demo  
+1.Langflow Integration
+2.API Key Setup
+3.AI Workflow Testing
+COMPLETED
 
 ## Deliverables
 - Final working demo  
 - Presentation slides  
 - Project report  
+
+Sprint 6
+Wazuh Alert Processing
+Incident Correlation
+Final Dashboard
 
 ---
