@@ -1,5 +1,6 @@
 # Senior IT Project  
-# Wazuh SIEM Agent + OpenCTI + AI Assistant Chatbot
+IncidentX
+AI-Powered Security Monitoring & Incident Response Platform
 
 ---
 
@@ -36,8 +37,12 @@ To empower SOC analysts with an AI-driven security platform that combines Wazuh 
 - Wazuh Indexer — alert storage and search  
 - Wazuh Dashboard — visualization and investigation  
 
-### CTI Layer
-- OpenCTI for bidirectional IoC enrichment with Wazuh  
+###AI Analysis Layer
+Langflow
+Groq LLM
+Threat Correlation Engine
+Alert Prioritization
+
 
 ### Active Response Layer
 - Automated remediation triggered by high-confidence alerts  
@@ -58,15 +63,16 @@ To empower SOC analysts with an AI-driven security platform that combines Wazuh 
 
 | Service | Purpose |
 |---|---|
-| wazuh-manager | Security event analysis |
-| wazuh-indexer | OpenSearch storage engine |
-| wazuh-dashboard | Visualization dashboard |
-| opencti | Threat intelligence platform |
-| opencti-worker | Background task processing |
-| rabbitmq | Message queue |
-| minio | Object storage |
-| ai-chatbot-api | FastAPI backend |
-| ai-chatbot-ui | React frontend |
+| Service         | Purpose                 |
+| --------------- | ----------------------- |
+| wazuh-manager   | Security Event Analysis |
+| wazuh-indexer   | Event Storage           |
+| wazuh-dashboard | Visualization           |
+| langflow        | AI Workflow Engine      |
+| portainer       | Container Management    |
+| caddy           | Reverse Proxy           |
+| webhook         | Automated Deployment    |
+
 
 ---
 
@@ -247,11 +253,7 @@ The platform provides guided insights and visual explanations for easier learnin
 - Vulnerability scanning  
 - Active response automation  
 
-## OpenCTI Integration
-- IoC enrichment  
-- MITRE ATT&CK mapping  
-- Threat actor intelligence  
-- STIX intelligence sharing  
+
 
 ## AI Chatbot
 - Natural language querying  
