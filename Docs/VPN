@@ -1,0 +1,7 @@
+we evaluated three VPN options for implementing the private network layer. WireGuard is a modern, lightweight protocol that uses simple key-pair authentication, runs over UDP, and requires minimal configuration — making it the most suitable choice for our setup. OpenVPN is older and more complex, requiring a full certificate authority and producing lengthy config files, and is generally preferred in enterprise or legacy environments. Headscale is not a standalone VPN but a self-hosted controller for mesh networking using WireGuard underneath, best suited for large teams with many devices needing to communicate with each other. Given our setup — one VPS and a small team — WireGuard offers the right balance of simplicity, speed, and Docker compatibility.
+
+
+Using WireGuard VPN combined with Docker network isolation, we can achieve this cleanly. The Wazuh dashboard remains public via HTTPS, while Portainer and Langflow are bound only to the VPN network interface — meaning no route to them exists from the public internet. The UFW firewall reinforces this by allowing only ports 80, 443, and UDP 51820.
+
+
+All containers run at all times after a single docker compose up. The VPN does not start or stop any service — it simply determines whether a network route to private services exists for the connecting user. VPN off, only Wazuh is reachable. VPN on, the full stack becomes accessible to the team.
